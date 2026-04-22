@@ -1,7 +1,14 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=May%20Rizky%20Ardanata&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 # 👋 Hi, I'm May Rizky Ardanata  
 
-🎯 **Applied Data Science Enthusiast**  
-💡 Passionate about turning data into insights & impactful solutions  
+<p align="center">
+  🎯 Applied Data Science Enthusiast <br>
+  💡 Turning data into insights & impactful solutions
+</p>
 
 ---
 
@@ -14,6 +21,7 @@
 ---
 
 ## 🛠️ Tech Stack  
+
 ### Languages & Libraries  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
@@ -31,9 +39,11 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -45,10 +55,22 @@
 ---
 
 ## 🌐 Connect with Me  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: your@email.com  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact  
 > "Data is not just numbers, it's a story waiting to be told."  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
+</p>
