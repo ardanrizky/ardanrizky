@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Modern Banner (NO IMAGE FILE NEEDED) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.png" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=May%20Rizky%20Ardanata&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm May Rizky Ardanata</h1>
@@ -23,11 +23,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,tensorflow" />
-<br>
-<img src="https://skillicons.dev/icons?i=postgres" />
-
+  <img src="https://skillicons.dev/icons?i=python,git,github,tensorflow,postgres" />
 </p>
 
 ---
