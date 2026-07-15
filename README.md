@@ -120,16 +120,6 @@ me.say_hi()
 
 ---
 
-## 📈 Learning Roadmap
-
-```
-[2024] ██████████████████░░  Core Data Science & ML      ✅ Done
-[2025] ████████████░░░░░░░░  Deep Learning & NLP         🔄 In Progress  
-[2025] ████████░░░░░░░░░░░░  MLOps & Data Engineering    🔄 In Progress
-[2026] ░░░░░░░░░░░░░░░░░░░░  AI Research & LLMs          🎯 Next Goal
-```
-
----
 
 ## 🌐 Let's Connect
 
@@ -156,11 +146,6 @@ me.say_hi()
 ---
 
 <div align="center">
-
-### 💬 Favorite Quote
-
-> *"In God we trust. All others must bring data."*
-> — W. Edwards Deming
 
 ---
 
