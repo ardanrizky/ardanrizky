@@ -86,26 +86,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&border_color=1e3a5f&hide_border=false&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38BDF8&border_color=1e3a5f&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0d1117&border=1e3a5f&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=38BDF8&line=0a3d62&point=38BDF8&area=true&area_color=0a3d62&hide_border=false&border_color=1e3a5f" alt="Contribution Graph"/>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
