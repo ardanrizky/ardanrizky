@@ -18,7 +18,8 @@ I develop practical data solutions—ranging from exploratory data analysis and 
 
 - **[PanganTrack](https://github.com/nicolausprima/PanganTrack)**  
   A food commodity monitoring and price prediction system engineered to forecast agricultural price trends and provide data-driven market insights through machine learning pipelines and FastAPI services.  
-  *Stack: Python, FastAPI, Machine Learning, Scikit-Learn*
+  *Stack: Python, FastAPI, Machine Learning, Scikit-Learn*  
+  [Live Demo: pangan-track.vercel.app](https://pangan-track.vercel.app/)
 
 ---
 
