@@ -1,55 +1,47 @@
-# Halo, saya May Rizky Ardanata 👋
+# May Rizky Ardanata
 
-Mahasiswa **D4 Sains Data Terapan** di **Politeknik Elektronika Negeri Surabaya (PENS)** dengan minat pada **Machine Learning**, **Pemrosesan Bahasa Alami (NLP)**, dan **Pengembangan Web Berbasis Data**.
+Applied Data Science student at **Electronic Engineering Polytechnic Institute of Surabaya (PENS)**, focusing on **Machine Learning**, **Applied Data Analytics**, and **Data-Driven Web Engineering**.
 
-Saya berfokus membangun solusi data yang dapat diterapkan secara nyata—mulai dari pembersihan data mentah, eksplorasi statistik, hingga mengintegrasikan model machine learning ke dalam antarmuka web interaktif yang mudah digunakan.
-
----
-
-### 📌 Fokus & Minat Saat Ini
-- 🔍 Eksplorasi pemodelan Machine Learning dan representasi teks (NLP).
-- 🌐 Mengintegrasikan pipeline data science ke aplikasi web menggunakan Flask dan FastAPI.
-- 📈 Analisis data eksploratif (EDA) dan penarikan wawasan berbasis data.
+I develop practical data solutions—ranging from exploratory data analysis and predictive modeling to building responsive web interfaces that turn analytical models into usable software.
 
 ---
 
-### 💻 Tech Stack & Tools
+## Featured Projects
 
-Teknologi dan tools yang aktif saya gunakan dalam studi dan pengembangan proyek:
+- **[Intervyou.AI](https://github.com/ardanrizky/Intervyou.AI)**  
+  An automated technical interview practice platform for 7 IT roles featuring real-time speech recognition via the Web Speech API, semantic answer scoring using TF-IDF and Cosine Similarity, and local SQLite result logging.  
+  *Stack: Python, Flask, PySastrawi, Scikit-Learn, SQLite, Web Speech API*
 
-- **Bahasa Pemrograman:** Python, R, SQL, JavaScript, HTML5/CSS3
-- **Data Science & ML:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, PySastrawi
-- **Web & Backend:** Flask, FastAPI, SQLite
-- **Tools & Workflow:** Git, GitHub, VS Code, Jupyter Notebook
+- **[NadiKampus](https://github.com/ardanrizky/Nadi-Kampus-)**  
+  An institutional student analytics platform designed to segment psychosocial and academic risk profiles using K-Means Clustering (k=4), interactive 2D PCA dimensionality reduction, and a high-performance FastAPI backend.  
+  *Stack: Python, FastAPI, K-Means, PCA, Scikit-Learn, JavaScript*
+
+- **[PanganTrack](https://github.com/nicolausprima/PanganTrack)**  
+  A food commodity monitoring and price prediction system engineered to forecast agricultural price trends and provide data-driven market insights through machine learning pipelines and FastAPI services.  
+  *Stack: Python, FastAPI, Machine Learning, Scikit-Learn*
+
+---
+
+## Tech Stack & Tools
+
+- **Programming & Databases:** Python, R, SQL, JavaScript
+- **Analytics & Business Intelligence:** Power BI
+- **Tools & Environment:** GitHub, VS Code
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,html,css,js,sklearn,fastapi,flask,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### 🚀 Proyek Unggulan
+## Let's Connect
 
-Beberapa proyek yang telah saya kembangkan:
-
-- **[Intervyou.AI](https://github.com/ardanrizky/Intervyou.AI)**  
-  Platform simulasi wawancara teknis 7 role IT dengan evaluasi semantik otomatis berbasis TF-IDF & Cosine Similarity, input suara lisan real-time via Web Speech API, dan penyimpanan hasil SQLite.  
-  *Stack: Python, Flask, PySastrawi, Scikit-Learn, SQLite, Web Speech API*
-
-- **[NadiKampus](https://github.com/ardanrizky/Nadi-Kampus-)**  
-  Sistem analitika institusional untuk segmentasi profil psikososial dan risiko akademik mahasiswa menggunakan K-Means Clustering (k=4), reduksi dimensi PCA 2D interaktif, dan backend FastAPI.  
-  *Stack: Python, FastAPI, K-Means, PCA, Scikit-Learn, JavaScript*
-
-- **[Website Portofolio](https://github.com/ardanrizky/website-portofolio)**  
-  Website portofolio pribadi modern untuk mendokumentasikan proyek, latar belakang akademik, dan keahlian, dideploy via GitHub Pages.  
-  👉 **[Kunjungi Web Portofolio](https://ardanrizky.github.io/website-portofolio/)**
-
----
-
-### 📫 Hubungi Saya
-
-Tertarik berdiskusi atau berkolaborasi seputar data science dan pengembangan aplikasi? Silakan hubungi saya melalui:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-May_Rizky_Ardanata-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/may-rizky-ardanata-7001942b8/)
-[![Portofolio](https://img.shields.io/badge/Portofolio-ardanrizky.github.io-0b1220?style=flat-square&logo=googlechrome&logoColor=6ee7ff)](https://ardanrizky.github.io/website-portofolio/)
-[![Email](https://img.shields.io/badge/Email-ardandann05%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ardandann05@gmail.com)
+- **LinkedIn:** [May Rizky Ardanata](https://www.linkedin.com/in/may-rizky-ardanata-7001942b8/)
+- **Email:** [ardandann05@gmail.com](mailto:ardandann05@gmail.com)
+- **Portfolio:** [ardanrizky.github.io/website-portofolio](https://ardanrizky.github.io/website-portofolio/)
