@@ -1,156 +1,55 @@
-<div align="center">
+# Halo, saya May Rizky Ardanata 👋
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d2137,60:0a3d62,100:1a6a8a&height=220&section=header&text=May%20Rizky%20Ardanata&fontSize=48&fontColor=e0f7ff&animation=fadeIn&fontAlignY=40&desc=Applied%20Data%20Science%20%7C%20ML%20Engineer%20%7C%20Data%20Storyteller&descAlignY=62&descSize=16&descColor=7ecfea"/>
+Mahasiswa **D4 Sains Data Terapan** di **Politeknik Elektronika Negeri Surabaya (PENS)** dengan minat pada **Machine Learning**, **Pemrosesan Bahasa Alami (NLP)**, dan **Pengembangan Web Berbasis Data**.
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+insights+%F0%9F%93%8A;Building+ML+models+that+actually+work+%F0%9F%A4%96;Obsessed+with+clean+code+%26+clean+data+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0d2137&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0a3d62&labelColor=0d2137&label=FOLLOWERS" alt="Followers"/>
-
-</div>
+Saya berfokus membangun solusi data yang dapat diterapkan secara nyata—mulai dari pembersihan data mentah, eksplorasi statistik, hingga mengintegrasikan model machine learning ke dalam antarmuka web interaktif yang mudah digunakan.
 
 ---
 
-<img align="right" alt="Data Science GIF" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-## 🧑‍💻 About Me
-
-```python
-class MayRizky:
-    name       = "May Rizky Ardanata"
-    role       = "Applied Data Science Enthusiast"
-    location   = "Indonesia 🇮🇩"
-    
-    focus      = [
-        "Predictive Modeling",
-        "Data Visualization",
-        "Machine Learning",
-        "Data Engineering",
-    ]
-    
-    currently  = "Learning Advanced ML & MLOps"
-    
-    motto      = "Data is not just numbers — it's a story."
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something great 🚀")
-
-me = MayRizky()
-me.say_hi()
-```
-
-<br clear="right"/>
+### 📌 Fokus & Minat Saat Ini
+- 🔍 Eksplorasi pemodelan Machine Learning dan representasi teks (NLP).
+- 🌐 Mengintegrasikan pipeline data science ke aplikasi web menggunakan Flask dan FastAPI.
+- 📈 Analisis data eksploratif (EDA) dan penarikan wawasan berbasis data.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
-<div align="center">
+Teknologi dan tools yang aktif saya gunakan dalam studi dan pengembangan proyek:
 
-**Languages & Core**
+- **Bahasa Pemrograman:** Python, R, SQL, JavaScript, HTML5/CSS3
+- **Data Science & ML:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, PySastrawi
+- **Web & Backend:** Flask, FastAPI, SQLite
+- **Tools & Workflow:** Git, GitHub, VS Code, Jupyter Notebook
 
-<img src="https://skillicons.dev/icons?i=python,r,sql&theme=dark" />
-
-**ML / AI / Data**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-**Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
-
-**Visualization**
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,html,css,js,sklearn,fastapi,flask,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Proyek Unggulan
 
-<div align="center">
+Beberapa proyek yang telah saya kembangkan:
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&bg_color=0d1117&title_color=38BDF8&border_color=1e3a5f"/>
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight&bg_color=0d1117&title_color=38BDF8&border_color=1e3a5f"/>
-</a>
+- **[Intervyou.AI](https://github.com/ardanrizky/Intervyou.AI)**  
+  Platform simulasi wawancara teknis 7 role IT dengan evaluasi semantik otomatis berbasis TF-IDF & Cosine Similarity, input suara lisan real-time via Web Speech API, dan penyimpanan hasil SQLite.  
+  *Stack: Python, Flask, PySastrawi, Scikit-Learn, SQLite, Web Speech API*
 
-</div>
+- **[NadiKampus](https://github.com/ardanrizky/Nadi-Kampus-)**  
+  Sistem analitika institusional untuk segmentasi profil psikososial dan risiko akademik mahasiswa menggunakan K-Means Clustering (k=4), reduksi dimensi PCA 2D interaktif, dan backend FastAPI.  
+  *Stack: Python, FastAPI, K-Means, PCA, Scikit-Learn, JavaScript*
 
-<br/>
-
-| 🔍 Project | 📝 Description | 🛠 Stack | ⭐ |
-|---|---|---|---|
-| **Data Analysis Dashboard** | End-to-end EDA with interactive visualizations | Python, Pandas, Plotly | ![Stars](https://img.shields.io/badge/⭐-soon-38BDF8?style=flat) |
-| **ML Predictive Model** | Classification/Regression pipeline with MLflow | Scikit-learn, XGBoost | ![Stars](https://img.shields.io/badge/⭐-soon-38BDF8?style=flat) |
-| **Streamlit App** | Real-time data dashboard deployed to cloud | Streamlit, Docker | ![Stars](https://img.shields.io/badge/⭐-soon-38BDF8?style=flat) |
+- **[Website Portofolio](https://github.com/ardanrizky/website-portofolio)**  
+  Website portofolio pribadi modern untuk mendokumentasikan proyek, latar belakang akademik, dan keahlian, dideploy via GitHub Pages.  
+  👉 **[Kunjungi Web Portofolio](https://ardanrizky.github.io/website-portofolio/)**
 
 ---
 
-## 🏆 GitHub Trophies
+### 📫 Hubungi Saya
 
-<div align="center">
+Tertarik berdiskusi atau berkolaborasi seputar data science dan pengembangan aplikasi? Silakan hubungi saya melalui:
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&column=6&rank=SSS,SS,S,AAA,AA,A,B"/>
-
-</div>
-
----
-
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://kaggle.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://YOUR_PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6a8a,50:0a3d62,100:0a0f1e&height=120&section=footer"/>
-
-**⭐ If you find my work helpful, consider giving a star!**
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-May_Rizky_Ardanata-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/may-rizky-ardanata-7001942b8/)
+[![Portofolio](https://img.shields.io/badge/Portofolio-ardanrizky.github.io-0b1220?style=flat-square&logo=googlechrome&logoColor=6ee7ff)](https://ardanrizky.github.io/website-portofolio/)
+[![Email](https://img.shields.io/badge/Email-ardandann05%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ardandann05@gmail.com)
