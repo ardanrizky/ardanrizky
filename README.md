@@ -11,6 +11,7 @@ I develop practical data solutions—ranging from exploratory data analysis and 
 - **[Intervyou.AI](https://github.com/ardanrizky/Intervyou.AI)**  
   An automated technical interview practice platform for 7 IT roles featuring real-time speech recognition via the Web Speech API, semantic answer scoring using TF-IDF and Cosine Similarity, and local SQLite result logging.  
   *Stack: Python, Flask, PySastrawi, Scikit-Learn, SQLite, Web Speech API*
+   [Link: Intervyou.AI](https://intervyouai-production.up.railway.app/login)
 
 - **[NadiKampus](https://github.com/ardanrizky/Nadi-Kampus-)**  
   An institutional student analytics platform designed to segment psychosocial and academic risk profiles using K-Means Clustering (k=4), interactive 2D PCA dimensionality reduction, and a high-performance FastAPI backend.  
@@ -19,7 +20,7 @@ I develop practical data solutions—ranging from exploratory data analysis and 
 - **[PanganTrack](https://github.com/nicolausprima/PanganTrack)**  
   A food commodity monitoring and price prediction system engineered to forecast agricultural price trends and provide data-driven market insights through machine learning pipelines and FastAPI services.  
   *Stack: Python, FastAPI, Machine Learning, Scikit-Learn*  
-  [Live Demo: pangan-track.vercel.app](https://pangan-track.vercel.app/)
+  [Link: pangan-track](https://pangan-track.vercel.app/)
 
 ---
 
