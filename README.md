@@ -11,7 +11,7 @@ I develop practical data solutions—ranging from exploratory data analysis and 
 - **[Intervyou.AI](https://github.com/ardanrizky/Intervyou.AI)**  
   An automated technical interview practice platform for 7 IT roles featuring real-time speech recognition via the Web Speech API, semantic answer scoring using TF-IDF and Cosine Similarity, and local SQLite result logging.  
   *Stack: Python, Flask, PySastrawi, Scikit-Learn, SQLite, Web Speech API*
-   [Link: Intervyou.AI](https://intervyouai-production.up.railway.app/login)
+  [Link: Intervyou.AI](https://intervyouai-production.up.railway.app/login)
 
 - **[NadiKampus](https://github.com/ardanrizky/Nadi-Kampus-)**  
   An institutional student analytics platform designed to segment psychosocial and academic risk profiles using K-Means Clustering (k=4), interactive 2D PCA dimensionality reduction, and a high-performance FastAPI backend.  
