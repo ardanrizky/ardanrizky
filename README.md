@@ -45,4 +45,4 @@ I develop practical data solutions—ranging from exploratory data analysis and 
 
 - **LinkedIn:** [May Rizky Ardanata](https://www.linkedin.com/in/may-rizky-ardanata-7001942b8/)
 - **Email:** [ardandann05@gmail.com](mailto:ardandann05@gmail.com)
-- **Portfolio:** [ardanrizky.github.io/website-portofolio](https://ardanrizky.github.io/website-portofolio/)
+- **Portfolio:** [Website_Portofolio](https://website-portofolio-wine.vercel.app/)
